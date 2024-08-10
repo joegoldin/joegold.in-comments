@@ -8,6 +8,10 @@ on:
     branches: 
       - main
 
+concurrency:
+  group: update_submodules-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
