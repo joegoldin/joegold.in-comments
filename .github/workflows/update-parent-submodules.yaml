@@ -1,5 +1,8 @@
 name: Send submodule updates to parent repo
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: 
