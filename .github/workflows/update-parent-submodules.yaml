@@ -15,6 +15,7 @@ jobs:
           repository: joegoldin/joegold.in
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
           submodules: true
+          ref: main
 
       - name: Pull & update submodules recursively
         run: |
