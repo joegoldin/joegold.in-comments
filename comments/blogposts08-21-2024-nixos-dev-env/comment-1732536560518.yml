@@ -1,0 +1,6 @@
+_id: 19b712f0-ab26-11ef-b9c1-4708118a5c2f
+_parent: /blog/posts/08-21-2024-nixos-dev-env/
+name: Simon
+comment: "Hi,\r\njust wanted to say thank you !\r\n\r\nI got stuck with a NixOS VM on Oracle cloud that wouldn't boot... spent a whole day to debug, then found your github, reduced it to a minimal working VM and got something working in a few hours \U0001F44C"
+reply_to: ''
+date: '2024-11-25T12:09:20.517Z'
