@@ -78,3 +78,6 @@ comments:
 
   reCaptcha:
     enabled: false
+
+  akismet:
+    enabled: true
